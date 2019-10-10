@@ -1,0 +1,8 @@
+## Interface: 80205
+## Title: WoW Chatlink Sample
+## Version: 1
+## Author: KyrosKrane Sylvanblade
+## Notes: Sample addon demonstrating how to make and handle chat links in WoW.
+
+# In this add-on
+WoW_Chatlink_Sample.lua
